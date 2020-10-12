@@ -1,6 +1,6 @@
 ### Hi there! 👋 My name is Leo and I am a software engineer from Tel Aviv, Israel
 
-![LeoNatan's github stats](https://github-readme-stats.vercel.app/api?username=LeoNatan&count_private=true&show_icons=true&theme=merko&hide_rank=true)
+![LeoNatan's github stats](https://github-readme-stats.vercel.app/api?username=LeoNatan&count_private=true&include_all_commits=true&show_icons=true&theme=merko)
 
 <!--
 **LeoNatan/LeoNatan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
