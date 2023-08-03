@@ -1,4 +1,4 @@
-### Hi there! 👋 My name is Leo and I am a software engineer from Tel Aviv, Israel
+### Hi there! 👋 My name is Léo and I am a software engineer from Ramat Gan, Israel
 
 ![LeoNatan's github stats](https://github-readme-stats.vercel.app/api?username=LeoNatan&count_private=true&include_all_commits=true&show_icons=true&theme=merko)
 
